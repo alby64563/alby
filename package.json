@@ -1,0 +1,23 @@
+{
+  "name": "alby-portfolio",
+  "version": "1.0.0",
+  "description": "A portfolio website for Alby showcasing projects and skills.",
+  "main": "src/index.html",
+  "scripts": {
+    "start": "live-server src",
+    "build": "echo 'Build step can be added here'",
+    "test": "echo 'No tests specified'"
+  },
+  "keywords": [
+    "portfolio",
+    "website",
+    "projects",
+    "Alby"
+  ],
+  "author": "Alby",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
